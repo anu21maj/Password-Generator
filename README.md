@@ -37,3 +37,12 @@ This project is a simple and secure password generator built using HTML, CSS, an
 ---
 
 ## Project Structure
+password-generator/
+├── index.html        # Main HTML layout and structural markup
+├── style.css         # Styling, layout design, and responsive media queries
+├── script.js        # Core password generation logic and DOM interaction
+├── assets/           # Optional assets (icons, screenshots, logos)
+│   └── preview.png   # Application preview image for README
+├── .gitignore
+├── LICENSE
+└── README.md
